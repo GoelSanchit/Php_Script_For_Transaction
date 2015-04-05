@@ -17,3 +17,7 @@ Second, insert two rows into the accounts table:
 INSERT INTO accounts(name,amount)
 VALUES('John',25000),
       ('Mary',95000);
+      
+Third,query the accounts table:
+
+SELECT * FROM accounts;
