@@ -10,3 +10,8 @@ CREATE TABLE accounts (
   amount decimal(19,4) DEFAULT NULL,
   PRIMARY KEY (id)
 ) ENGINE=InnoDB;
+
+Second, insert two rows into the accounts table:
+INSERT INTO accounts(name,amount)
+VALUES('John',25000),
+      ('Mary',95000);
