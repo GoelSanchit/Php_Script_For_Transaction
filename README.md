@@ -21,3 +21,8 @@ VALUES('John',25000),
 Third,query the accounts table:
 
 SELECT * FROM accounts;
+
+
+test the transfer() method
+$obj->transfer(1, 2, 30000);
+echo $obj->getMessage() . "<br/>";
