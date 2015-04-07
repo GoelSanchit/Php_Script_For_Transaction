@@ -24,5 +24,6 @@ SELECT * FROM accounts;
 
 
 test the transfer() method
+
 $obj->transfer(1, 2, 30000);
 echo $obj->getMessage() . "<br/>";
