@@ -1,5 +1,5 @@
 # Php_Script_For_Transaction
-A classy script for bank transactions in localhost.
+A classy script for bank transactions in localhost..
 
 We will create a table name accounts to transfer money between two banks..
 
