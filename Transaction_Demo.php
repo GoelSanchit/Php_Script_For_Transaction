@@ -1,4 +1,4 @@
-<?ph
+<?php
 class TransactionDemo{
  const DB_HOST = 'localhost';
  const DB_NAME = 'classicmodels';
